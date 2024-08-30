@@ -10,7 +10,7 @@ gem 'quick_request', '~> 1.0.0'
 
 Or you can execute:
 ```ruby
-gem install QuickRequest
+gem install quick_request
 ```
 
 Obs: Ruby 3 is required
